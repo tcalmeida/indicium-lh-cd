@@ -40,5 +40,5 @@ Inicie o Jupyter Notebook:
 jupyter notebook
 ```
 
-Abra o arquivo: Relatorio_de analises_e_EDA.ipyn
+Abra o arquivo: Relatorio_de_analises_e_EDA.ipyn
 
