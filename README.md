@@ -31,6 +31,8 @@ Configuração
 Antes de executar o notebook, crie um aquivo variável de ambiente (.env) apontando para caminho do banco de dados:
 `DB_IMDB=caminho/do/banco_de_dados`
 
+## Execução
+
 **3. Execução do Notebook:**
 
 Inicie o Jupyter Notebook:
