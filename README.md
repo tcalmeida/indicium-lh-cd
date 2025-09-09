@@ -14,27 +14,29 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** sobre filmes,
 
 ## Instalação
 
-1. Clone o repositório ou baixe os arquivos:
+**1. Clone o repositório ou baixe os arquivos:**
 
 ```bash
 git clone <https://github.com/tcalmeida/indicium-lh-cd.git>
 cd <indicium-lh-cd>
 ```
 
-2. Instale as dependências:
+**2. Instale as dependências:**
 ```bash
 pip install -r requirements.txt
 ```
+
 Configuração
 
 Antes de executar o notebook, crie um aquivo variável de ambiente (.env) apontando para caminho do banco de dados:
 `DB_IMDB=caminho/do/banco_de_dados`
 
-3. Execução do Notebook
+**3. Execução do Notebook:**
 
 Inicie o Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
+
 Abra o arquivo: Relatorio_de analises_e_EDA.ipyn
 
