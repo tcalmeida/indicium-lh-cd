@@ -17,8 +17,8 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** sobre filmes,
 **1. Clone o repositório ou baixe os arquivos:**
 
 ```bash
-git clone <https://github.com/tcalmeida/indicium-lh-cd.git>
-cd <indicium-lh-cd>
+git clone https://github.com/tcalmeida/indicium-lh-cd.git
+cd indicium-lh-cd
 ```
 
 **2. Instale as dependências:**
